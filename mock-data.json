@@ -1,0 +1,23 @@
+{
+  "data": [
+    {"country": "Australia", "job_family": "Corporate", "business_unit":"AVF", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment",  "pay_range":"NBS"},
+    {"country": "Australia", "job_family": "Corporate", "business_unit":"AVF", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment",  "pay_range":"TFR"},
+    {"country": "Australia", "job_family": "Corporate", "business_unit":"FIN", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment", "pay_range":""},
+    {"country": "Australia", "job_family": "Corporate", "business_unit":"Compliance", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment", "pay_range":""},
+    {"country": "Canada", "job_family": "Corporate", "business_unit":"Corporate", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment", "pay_range":""},
+    {"country": "USA", "job_family": "Corporate", "business_unit":"Finanace & IT", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment", "pay_range":""},
+    {"country": "UK", "job_family": "Corporate", "business_unit":"Corporate", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment", "pay_range":""},
+    {"country": "UK", "job_family": "Corporate", "business_unit":"Corporate", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment", "pay_range":""},
+    {"country": "Australia", "job_family": "Corporate", "business_unit":"Corporate", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment", "pay_range":""},
+    {"country": "Australia", "job_family": "Corporate", "business_unit":"Corporate", "grade_structure":"GradeStructure_*", "pay_structure":"Business Equipment", "pay_range":""}
+  ],
+  "columns": [
+    {"label": "Country", "id": "country"},
+    {"label": "Job Family", "id": "job_family"},
+    {"label": "Business Unit", "id": "business_unit"},
+    {"label": "Grade Structure", "id": "grade_structure"},
+    {"label": "Pay Structure", "id": "pay_structure"},
+    {"label": "Pay Range", "id": "pay_range"},
+    {"label": "Pay ", "id": "pay"}
+  ]
+}
